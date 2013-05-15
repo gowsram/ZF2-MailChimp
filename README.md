@@ -1,3 +1,4 @@
-GMpasApi
+GMapsApi
 ========
+
 
